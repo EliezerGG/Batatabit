@@ -1,0 +1,19 @@
+.header-title-container .header-button{
+display: inline-block;
+/* margin-top: 50px; */
+}
+.product-cards--container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
+.plans-container--slider ,.main-tables-container{
+    justify-content: center;
+}
+.main-currency-table .comisiones{
+    margin-top: 0;
+}
+.main-exchange-container .main-tables-container{
+    margin: 15px 300px;
+}
